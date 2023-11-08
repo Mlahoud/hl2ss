@@ -21,7 +21,7 @@ import hl2ss_sa
 # Settings --------------------------------------------------------------------
 
 # HoloLens 2 address
-host = "192.168.1.7"
+host = "192.168.1.189"
 
 # Camera parameters
 # See etc/hl2_capture_formats.txt for a list of supported formats
